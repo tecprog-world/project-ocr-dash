@@ -1,0 +1,7 @@
+dash==2.5.1
+pandas==1.4.3
+Pillow==9.2.0
+plotly==5.9.0
+pytesseract==0.3.9
+scikit_image==0.19.3
+

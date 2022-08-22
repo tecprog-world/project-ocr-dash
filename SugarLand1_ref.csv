@@ -1,0 +1,205 @@
+,editable,xref,yref,layer,opacity,line,fillcolor,fillrule,type,x0,y0,x1,y1,text
+0,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,772,253,1330,320,"City of Sugar Land
+"
+1,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,773,334,1176,387,"PO Box 5029
+"
+2,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,772,411,1641,480,"Sugar Land, TX 77487-5029
+"
+3,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,1870,215,2116,269,"Contact:
+"
+4,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,1870,293,2336,360,"(281) 275-2750
+"
+5,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,1871,373,2363,440,"Monday - Friday
+"
+6,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,1870,451,2380,508,"8:00AM- 5:00PM
+"
+7,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3480,179,3856,240,"Customer
+"
+8,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3880,179,4072,256,"Copy
+"
+9,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,301,624,803,667,"CUSTOMER NAME
+"
+10,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,1520,622,1949,665,"CUSTOMER NO.
+"
+11,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2560,621,2848,663,"PARCEL ID
+"
+12,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3580,618,4120,661,"SERVICE LOCATION
+"
+13,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,301,746,736,790,"FORT BEND ISD
+"
+14,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,1665,745,1810,788,"19057
+"
+15,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3476,740,4121,784,"16431 LEXINGTON BLVD
+"
+16,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,304,873,695,916,"BILL NUMBER
+"
+17,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,1302,873,1586,915,"BILL DATE
+"
+18,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2232,864,2380,929,"0) 3
+"
+19,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2777,869,3199,912,"ACCOUNT TYPE
+"
+20,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3850,867,4120,909,"DUE DATE
+"
+21,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,300,996,488,1038,"209740
+"
+22,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,1304,993,1583,1036,"01/14/2022
+"
+23,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2140,993,2293,1035,"29336
+"
+24,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2787,985,3191,1050,"INSTITUTIONAL
+"
+25,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3850,989,4121,1032,"02/04/2022
+"
+26,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,1442,1092,2961,1137,"METER READ PREVIOUS CURRENT PREVIOUS
+"
+27,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3090,1091,3357,1134,"CURRENT
+"
+28,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,1415,1160,2119,1203,"NUMBER CODE_READ
+"
+29,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2141,1158,2945,1201,"DATE READ READING
+"
+30,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3100,1157,3347,1200,"READING
+"
+31,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,289,1240,720,1287,"WATER VOLUME
+"
+32,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,1419,1243,1653,1288,"70359619
+"
+33,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,1829,1240,2607,1286,"A 12/10/2021 01/11/2022
+"
+34,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2743,1241,2892,1283,"50680
+"
+35,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3152,1240,3293,1283,"51076
+"
+36,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3525,1239,3671,1282,"39600
+"
+37,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3958,1236,4113,1285,"$55.84
+"
+38,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,289,1320,483,1387,"WATER
+"
+39,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3958,1310,4113,1360,"$80.60
+"
+40,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,289,1385,920,1440,"WASTE WATER VOLUME
+"
+41,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3920,1382,4114,1440,"$125.53
+"
+42,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,289,1459,839,1529,"WASTE WATER BASE
+"
+43,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3920,1459,4109,1517,"$107.31
+"
+44,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,291,1539,754,1597,"SURFACE WATER
+"
+45,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3928,1538,4108,1588,"$127.91
+"
+46,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2036,2401,2425,2489,"READ CODE
+"
+47,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2749,2425,3853,2482,"Want to receive your water bill electronically?
+"
+48,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3873,2424,4026,2469,"It is an
+"
+49,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,296,2520,460,2557,"200000
+"
+50,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2043,2482,2347,2530,"A= Actual
+"
+51,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2750,2487,3976,2544,"easy and convenient way to receive your water bill
+"
+52,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2046,2557,2419,2605,"E = Estimate
+"
+53,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2750,2552,3754,2605,"each month. Please visit sugarlandtx.gov
+"
+54,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3772,2551,4096,2605,"and complete
+"
+55,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2100,2632,2297,2679,"= Final
+"
+56,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2749,2612,3999,2668,"the e-bill sign up form. IF YOU ARE ENROLLED IN
+"
+57,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,299,2696,460,2733,"100000
+"
+58,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2750,2676,3798,2721,"CREDIT CARD AUTO PAY- DO NOT PAY
+"
+59,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,513,2721,516,2784,"|
+"
+60,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2752,2737,4053,2788,"UTILITY RATE CHANGES EFFECTIVE JANUARY 1,
+"
+61,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,324,2787,404,2825,"200
+"
+62,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2750,2802,3584,2847,"2022 FOR MORE INFORMATION
+"
+63,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3607,2802,3981,2846,"PLEASE VISIT:
+"
+64,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,434,2852,460,2889,"9
+"
+65,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2749,2863,3796,2908,"WWW.SUGARLANDTX.GOV/2022RATES
+"
+66,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,582,2915,1745,2958,"Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec Jan
+"
+67,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2777,3162,3140,3200,"Previous Balance
+"
+68,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3967,3156,4085,3200,"$0.00
+"
+69,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2775,3287,3188,3335,"Total Current Billing
+"
+70,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2776,3413,3180,3451,"Total Amount Due
+"
+71,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3918,3407,4085,3450,"$497.19
+"
+72,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,1887,3670,2773,3719,"Domestic meter consumption history only.
+"
+73,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,678,4094,1136,4148,"City of Sugar Land
+"
+74,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,679,4157,1005,4200,"PO Box 5029
+"
+75,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,678,4222,1374,4275,"Sugar Land, TX 77487-5029
+"
+76,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,731,4596,1163,4631,"AADC 750 4 MAAD
+"
+77,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,306,4647,722,4682,"4616 1 MB O-48e2
+"
+78,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,304,4834,742,4878,"FORT BEND ISD
+"
+79,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,307,4894,819,4937,"13600 MURPHY RD
+"
+80,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,304,4956,1027,5000,"STAFFORD TX 77477-4908
+"
+81,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,420,5221,1855,5270,"Check here for change of billing address only and note changes on
+"
+82,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,421,5279,537,5316,"back.
+"
+83,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,294,5344,1279,5455,"[| Additional Utility Assistance Donation: $
+"
+84,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3217,3805,3768,3860,"REMIT PORTION
+"
+85,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3102,3920,3579,3959,"SERVICE LOCATION
+"
+86,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3057,4032,3625,4071,"16431 LEXINGTON BLVD
+"
+87,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2665,4150,2987,4187,"BILL NUMBER
+"
+88,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3182,4147,4002,4186,"CUSTOMER # ACCOUNT #
+"
+89,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3275,4262,3408,4301,"19057
+"
+90,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3798,4261,3929,4300,"29336
+"
+91,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2748,4264,2902,4303,"209740
+"
+92,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2710,4378,3998,4419,"DUE DATE AFTER DUE DATE TOTAL DUE
+"
+93,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3254,4492,3429,4535,"$546.90
+"
+94,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,3780,4490,3950,4535,"$497.19
+"
+95,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2709,4496,2942,4534,"02/04/2022
+"
+96,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2382,4653,2775,4700,"Promptly Send To:
+"
+97,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2530,4914,3113,4960,"CITY OF SUGAR LAND
+"
+98,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2531,4978,2873,5022,"PO BOX 5029
+"
+99,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2530,5038,3276,5084,"SUGAR LAND TX 77487-5029
+"
+100,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2392,5304,3960,5364,"Please include both the Customer # and Account # on your
+"
+101,True,x,y,above,1,"{'color': 'red', 'width': 1, 'dash': 'solid'}","rgba(0,0,0,0)",evenodd,rect,2390,5373,3137,5425,"check and/or Online Bill Pay
+"
